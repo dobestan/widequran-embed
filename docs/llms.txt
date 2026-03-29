@@ -1,0 +1,28 @@
+# WideQuran Embed Widget
+
+> Embeddable WideQuran widgets for any website. Zero dependencies, Shadow DOM isolation, 4 themes (light/dark/sepia/auto).
+
+## Quick Start
+
+Add to any HTML page:
+- Script: <script src="https://cdn.jsdelivr.net/npm/widequran-embed@1/dist/embed.min.js"></script>
+
+## Links
+
+- Main site: https://widequran.com
+- Widget docs: https://widget.widequran.com
+- npm: https://www.npmjs.com/package/widequran-embed
+- GitHub: https://github.com/dobestan/widequran-embed
+- API: https://widequran.com/developers/
+
+## WideHoly Widget Family
+
+- [WideHoly Widget](https://widget.wideholy.com)
+- [WideBible Widget](https://widget.widebible.com)
+- [WideTorah Widget](https://widget.widetorah.com)
+- [WideGita Widget](https://widget.widegita.com)
+- [WideSutra Widget](https://widget.widesutra.com)
+
+## Part of FYIPedia
+
+Open-source developer tools ecosystem — https://fyipedia.com
