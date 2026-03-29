@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# WideQuran Embed Widget
+# Main site: https://widequran.com
+# Widget docs: https://widget.widequran.com
+# npm: https://www.npmjs.com/package/widequran-embed
